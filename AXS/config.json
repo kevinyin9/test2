@@ -1,0 +1,14 @@
+{
+    "database":{
+        "ftx_socket":"FTX",
+        "WOO_AXS":"AXS",
+        "WOO_BNB":"BNB",
+        "WOO_BTC":"BTC",
+        "WOO_ETH":"ETH",
+        "WOO_LTC":"LTC",
+        "WOO_WOO":"WOO"
+    },   
+    "db_host":"localhost",
+    "db_user":"debian-sys-maint",
+    "db_pwd":"U1B5Spf5Le2lr6IK"
+   }
