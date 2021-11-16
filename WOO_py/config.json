@@ -1,0 +1,10 @@
+{
+    "database":{
+        "ftx_socket":"FTX",
+        "woo_socket":"woo_socket",
+        "ACE":"ACE"
+    },
+    "db_host":"localhost",
+    "db_user":"root",
+    "db_pwd":"petty0809"
+}
